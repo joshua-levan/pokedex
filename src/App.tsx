@@ -1,4 +1,3 @@
-import React from 'react'
 import './styling/App.css'
 
 const App = () => {

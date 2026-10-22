@@ -9,4 +9,8 @@
   min-height: 100vh;
   max-width: 900px;
   background-color: #fff;
+  padding: 15px;
+}
+.app__title {
+  color: #181818;
 }/*# sourceMappingURL=App.css.map */

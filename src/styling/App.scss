@@ -5,10 +5,15 @@
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    &__container{
+    &__container {
         width: 80%;
         min-height: 100vh;
         max-width: 900px;
         background-color: $white;
+        padding: 15px;
+    }
+
+    &__title {
+        color: $black-02;
     }
 }
