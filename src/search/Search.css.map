@@ -1,1 +1,1 @@
-{"version":3,"sources":["Search.scss","Search.css"],"names":[],"mappings":"AAEA;EACI,aAAA;ACDJ","file":"Search.css"}
+{"version":3,"sources":["Search.scss","Search.css","../styling/_variables.scss"],"names":[],"mappings":"AAEA;EACI,aAAA;ACDJ;ADGI;EACI,kBAAA;ACDR;ADII;EACI,yBEOF;EFNE,cECG;EFAH,iBAAA;ACFR;ADKI;EACI,YAAA;EACA,iBAAA;EACA,OAAA;EACA,eAAA;ACHR","file":"Search.css"}

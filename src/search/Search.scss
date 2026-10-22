@@ -1,5 +1,22 @@
 @import '../styling/variables';
 
 .search {
-    display:flex;
+    display: flex;
+
+    &__input, &__button {
+        border-radius: 5px;
+    }
+
+    &__button {
+        background-color: $red;
+        color: $white-02;
+        font-weight: bold;
+    }
+
+    &__input {
+        height: 35px;
+        margin-right: 8px;
+        flex:1;
+        font-size: 22px;
+    }
 }
