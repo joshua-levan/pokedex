@@ -1,0 +1,14 @@
+@import './variables';
+
+.app {
+    background-color: $gray-06;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    &__container{
+        width: 80%;
+        min-height: 100vh;
+        max-width: 900px;
+        background-color: $white;
+    }
+}

@@ -1,1 +1,12 @@
-/*# sourceMappingURL=App.css.map */
+.app {
+  background-color: #e8e8e8;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.app__container {
+  width: 80%;
+  min-height: 100vh;
+  max-width: 900px;
+  background-color: #fff;
+}/*# sourceMappingURL=App.css.map */
